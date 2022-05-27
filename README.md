@@ -1,5 +1,9 @@
-### Hi there 👋
+# console.log('Hello World! | 👋)
+I'm a __developer__.
+I have been passionate about _technology_ and _STEM_ projects, I’m a __Biologist__ with more than three years of medical laboratory experience.
+##### 💬 You can contact me!  I will be happy to help! 👯
 
+My pesonal [Linkedin](www.linkedin.com/in/gabrielamendozal)
 <!--
 **GabrielaMendozal/GabrielaMendozal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
