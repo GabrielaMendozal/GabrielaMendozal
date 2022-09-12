@@ -1,6 +1,6 @@
 # console.log('Hello World! | 👋)
-I'm a __developer__.
-I have been passionate about _technology_ and _STEM_ projects, I’m a __Biologist__ with more than three years of medical laboratory experience.
+
+I have been passionate about _technology_ and _STEM_ projects, I’m a __Biologist__ with more than three years of medical laboratory experience. I'm a __full stack developer__.
 ##### 💬 You can contact me!  I will be happy to help! 👯
 
 My pesonal [Linkedin](www.linkedin.com/in/gabrielamendozal)
